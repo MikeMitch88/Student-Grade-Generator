@@ -5,7 +5,7 @@ function calculateGrade(Marks){
     else if(Marks >= 60 && Marks <=79){
         return `B`;
     }
-    else if(Marks >= 50 && Marks <= 59){
+    else if(Marks >= 49 && Marks <= 59){
         return `C`;
     }
     else if(Marks >= 40 && Marks <= 49){
